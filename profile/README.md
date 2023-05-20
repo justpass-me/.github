@@ -27,7 +27,7 @@ advantages in scaling and ease of use allowing you to implement all your authent
 ### - Single Factor authentication
 User calls login endpoint with no credentials and gets redirected to justpass.me for authentication.
 ### - Second Factor Authentication
-User calls login endpoing with first factor credentials and once validated is redirected.
+User calls login endpoint with first factor credentials and once validated is redirected.
 to justpass.me for authentication
 
 ### - Migrating Existing users
@@ -36,7 +36,7 @@ Registration process is completely controlled from your backend server. Registra
 ## SDKs
 
 -   Server Libraries:
-    -   Python (Djano): [repo link](https://github.com/justpass-me/justpass-me-django)
+    -   Python (Django): [repo link](https://github.com/justpass-me/justpass-me-django)
     -   Firebase Extension: [repo link](https://github.com/justpass-me/justpass-me-firebase-ext)
 -   Mobile SDK's:
     -   iOS: [repo link](https://github.com/justpass-me/justpass-me-iOS-sdk)
