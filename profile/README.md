@@ -6,7 +6,7 @@ justpass.me offers seemless biometric authentication to your users improving use
 security. It is built on leading industry standards for federated authentication (OpenID) and passwordless
 authentication (FIDO) to provide both interoperability, compliance and ease of use.
 
-Justpass is built and maintained by  Justpass and Amwal Tech, an active member of the FIDO Alliance.
+Justpass is built and maintained by  Justpass and Amwal Tech, an active member of the **FIDO and OpenID Alliance**.
 
 
 Read more about our [features](#features) below.
