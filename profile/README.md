@@ -45,3 +45,4 @@ Registration process is completely controlled from your backend server. Registra
     -   iOS: [repo link](https://github.com/justpass-me/justpass-me-iOS-sdk)
     -   Android: [package link](https://mavenlibs.com/maven/dependency/tech.amwal.justpassme)
     -   React Native: [repo link](https://github.com/justpass-me/justpass-me-react-native) [package link](https://www.npmjs.com/package/@justpass-me/justpass-me-react-native)
+    -   Flutter: [repo link] (https://github.com/justpass-me/Passkeys-for-Flutter-with-justpass)
