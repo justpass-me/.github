@@ -1,9 +1,9 @@
 <img width="807" alt="justpass-me-front-page" src="https://github.com/justpass-me/.github/assets/100665288/76fb832c-711a-499c-88ca-9742c4d115ae">
 
-# [justpass.me](https://www.justpass.me): Passkeys as a Service for your Web and Mobile Apps
+# [justpass.me](https://www.justpass.me): Native Passkeys as a Service for your Web and Mobile Apps
 
-justpass.me offers seemless biometric authentication to your users improving user satisfaction and
-security. It is built on leading industry standards for federated authentication (OpenID) and passwordless
+justpass.me offers seemless native passkeys authentication to your users improving UX and
+security. Our implementation allows you to integarte passkeys in your flows using OpenID without changing your IdPs such as Auth0, Firebase, Cognito or others. It is built on leading industry standards for federated authentication (OpenID) and passwordless
 authentication (FIDO) to provide both interoperability, compliance and ease of use.
 
 Justpass is built and maintained by  Justpass and Amwal Tech, an active member of the **FIDO and OpenID Alliance**.
